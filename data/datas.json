@@ -1,0 +1,32 @@
+{
+    "ret": 200,
+    "data": {
+        "code": 0,
+        "msg": "",
+        "info": [
+            {
+                "id": "208",
+                "user_nicename": "\u98ce\u8d77\u6709\u53ef\u80fd",
+                "avatar": "https://upload.njcywl88.com/20200710122000_59d7839bb16a3be06b8cbef9801c95de?imageView2/2/w/600/h/600",
+                "avatar_thumb": "https://upload.njcywl88.com/20200710122000_59d7839bb16a3be06b8cbef9801c95de?imageView2/2/w/200/h/200",
+                "sex": "2",
+                "signature": "",
+                "coin": "62576",
+                "consumption": "38335",
+                "votestotal": "59727",
+                "province": "",
+                "city": "\u5e7f\u5dde\u5e02",
+                "birthday": "",
+                "login_type": "phone",
+                "last_login_time": "2020-08-13 18:04:23",
+                "location": "",
+                "isreg": "0",
+                "isagent": "0",
+                "level": "8",
+                "level_anchor": "9",
+                "token": "993b48ff307b5eaab595b47b711df0a1"
+            }
+        ]
+    },
+    "msg": ""
+}
